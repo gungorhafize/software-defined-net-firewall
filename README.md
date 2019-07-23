@@ -1,6 +1,11 @@
-Software Defined Network Firewall Project 
+Yazılım Tanımlı Ağ Güvenlik Duvarı Projesi
 
-Major Tools & Technologies Used:- SDN Controller, Mininet, Pox Controller, Virtual Box, Python etc.
+³ Kullanılan Ana Araçlar ve Teknolojiler:
+- SDN Controller
+- Mininet
+- Pox Controller
+- Virtual Box
+- Python etc.
 
 Project makes use of (https://www.opendaylight.org/) Opendaylight controller & the main goal of this project is to block IP address.
 
