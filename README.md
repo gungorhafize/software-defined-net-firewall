@@ -1,14 +1,13 @@
-Yazılım Tanımlı Ağ Güvenlik Duvarı Projesi
-
-³ Kullanılan Ana Araçlar ve Teknolojiler:
+### Yazılım Tanımlı Ağ (Software Defined Network) Güvenlik Duvarı Projesi
+---
+##### Kullanılan Ana Araçlar ve Teknolojiler:
 - SDN Controller
 - Mininet
 - Pox Controller
 - Virtual Box
 - Python etc.
+- Opendaylight
 
-Project makes use of (https://www.opendaylight.org/) Opendaylight controller & the main goal of this project is to block IP address.
-
-It is indicated on the terminal when python script is being run with set of sample IP addresses list provided.
-
-Project has a list of IP addresses to be blocked (In separate CSV file) provided while running python script.
+Bu projenin asıl amacı IP adreslerini engellemektir.
+Python betiği, sağlanan örnek IP adresleri listesiyle çalıştırıldığında terminalde belirtilir.
+Proje, python scripti çalışırken csv dosyasındaki bloklanması gereken IP adresslerinin listesini içerir.
