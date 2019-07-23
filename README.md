@@ -1,6 +1,6 @@
-SDN Firewall Project
+Software Defined Network Firewall Project 
 
-Major Tools & Technologies Used:- SDN Controller, Mininet, Virtual Box, Python etc.
+Major Tools & Technologies Used:- SDN Controller, Mininet, Pox Controller, Virtual Box, Python etc.
 
 Project makes use of (https://www.opendaylight.org/) Opendaylight controller & the main goal of this project is to block IP address.
 
