@@ -1,4 +1,4 @@
-### Yazılım Tanımlı Ağ (Software Defined Network) Güvenlik Duvarı Projesi
+### Yazılım Tanımlı Ağ Güvenlik Duvarı Projesi (Software Defined Network) 
 ---
 ##### Kullanılan Ana Araçlar ve Teknolojiler:
 - SDN Controller
